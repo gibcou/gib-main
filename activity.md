@@ -8,3 +8,4 @@
 2023-01-27T11:41:00Z - Tweak config
 2023-01-31T16:19:00Z - Update docs
 2023-02-02T14:26:00Z - Update docs
+2023-02-06T16:29:00Z - Adjust workflow
