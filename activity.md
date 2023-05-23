@@ -38,3 +38,4 @@
 2023-05-09T17:50:00Z - Optimize script
 2023-05-16T16:31:00Z - Minor cleanup
 2023-05-17T16:06:00Z - Tweak config
+2023-05-23T10:12:00Z - Update docs
