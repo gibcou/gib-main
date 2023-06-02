@@ -41,3 +41,4 @@
 2023-05-23T10:12:00Z - Update docs
 2023-05-24T12:25:00Z - Refactor helper
 2023-06-01T09:45:00Z - Maintenance chore
+2023-06-02T12:47:00Z - Update docs
