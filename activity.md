@@ -44,3 +44,4 @@
 2023-06-02T12:47:00Z - Update docs
 2023-06-06T12:40:00Z - Tweak config
 2023-06-09T13:05:00Z - Minor cleanup
+2023-06-13T16:16:00Z - Refactor helper
