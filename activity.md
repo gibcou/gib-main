@@ -60,3 +60,4 @@
 2023-07-28T09:16:00Z - Small fix
 2023-07-31T12:35:00Z - Maintenance chore
 2023-08-01T17:38:00Z - Minor cleanup
+2023-08-07T12:40:00Z - Adjust workflow
