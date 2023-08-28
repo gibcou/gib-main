@@ -66,3 +66,4 @@
 2023-08-17T14:27:00Z - Small fix
 2023-08-22T10:41:00Z - Refactor helper
 2023-08-25T17:41:00Z - Maintenance chore
+2023-08-28T15:33:00Z - Tweak config
