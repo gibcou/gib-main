@@ -69,3 +69,4 @@
 2023-08-28T15:33:00Z - Tweak config
 2023-08-31T16:38:00Z - Update docs
 2023-09-05T18:54:00Z - Improve test
+2023-09-07T12:01:00Z - Refactor helper
