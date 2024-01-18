@@ -107,3 +107,4 @@
 2024-01-10T09:12:00Z - Update docs
 2024-01-12T13:41:00Z - Polish README
 2024-01-15T09:40:00Z - Refactor helper
+2024-01-18T12:30:00Z - Small fix
