@@ -122,3 +122,4 @@
 2024-02-29T14:56:00Z - Update docs
 2024-03-04T09:28:00Z - Improve test
 2024-03-06T16:12:00Z - Tweak config
+2024-03-14T16:53:00Z - Refactor helper
