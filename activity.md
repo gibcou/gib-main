@@ -145,3 +145,4 @@
 2024-05-21T14:18:00Z - Small fix
 2024-05-23T12:14:00Z - Optimize script
 2024-05-29T10:07:00Z - Minor cleanup
+2024-05-30T12:29:00Z - Refactor helper
