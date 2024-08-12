@@ -166,3 +166,4 @@
 2024-08-02T10:40:00Z - Polish README
 2024-08-06T15:44:00Z - Small fix
 2024-08-08T18:43:00Z - Small fix
+2024-08-12T09:20:00Z - Refactor helper
