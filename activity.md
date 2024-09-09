@@ -174,3 +174,4 @@
 2024-08-30T14:19:00Z - Polish README
 2024-09-02T10:19:00Z - Small fix
 2024-09-05T16:22:00Z - Small fix
+2024-09-09T13:41:00Z - Adjust workflow
