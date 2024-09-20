@@ -177,3 +177,4 @@
 2024-09-09T13:41:00Z - Adjust workflow
 2024-09-10T13:12:00Z - Refactor helper
 2024-09-19T09:00:00Z - Small fix
+2024-09-20T09:21:00Z - Polish README
