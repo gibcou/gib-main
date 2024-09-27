@@ -179,3 +179,4 @@
 2024-09-19T09:00:00Z - Small fix
 2024-09-20T09:21:00Z - Polish README
 2024-09-26T09:04:00Z - Update docs
+2024-09-27T16:44:00Z - Tweak config
