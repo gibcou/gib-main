@@ -226,3 +226,4 @@
 2025-04-24T11:20:00Z - Small fix
 2025-04-29T14:39:00Z - Small fix
 2025-05-06T10:33:00Z - Optimize script
+2025-05-14T15:57:00Z - Tweak config
