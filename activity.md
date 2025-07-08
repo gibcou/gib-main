@@ -234,3 +234,4 @@
 2025-06-20T18:16:00Z - Adjust workflow
 2025-06-25T16:16:00Z - Small fix
 2025-07-01T11:17:00Z - Small fix
+2025-07-08T13:25:00Z - Refactor helper
