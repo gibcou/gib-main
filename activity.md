@@ -237,3 +237,4 @@
 2025-07-08T13:25:00Z - Refactor helper
 2025-07-15T13:18:00Z - Minor cleanup
 2025-07-21T18:46:00Z - Maintenance chore
+2025-08-01T14:22:00Z - Tweak config
