@@ -260,3 +260,4 @@
 2025-12-17T12:49:00Z - Optimize script
 2025-12-22T11:46:00Z - Optimize script
 2026-01-01T15:55:00Z - Adjust workflow
+2026-01-05T12:28:00Z - Polish README
